@@ -2,6 +2,10 @@ NOIRE — Fashion E-Commerce UI/UX
 
 A modern fashion e-commerce experience designed in Figma, focused on style discovery and a simple, editorial shopping experience.
 
+✦ Prototype
+
+https://www.figma.com/design/UQL7q8PBmrApZcTy9reIoW/Fashion-ecommerce?node-id=0-1&t=xd3f8p9BynfH1ffj-1
+
 ✦ Project Overview
 
 NOIRE is a fashion e-commerce concept that combines editorial fashion discovery with an intuitive shopping experience.
@@ -53,6 +57,3 @@ Black — #111111
 Muted Taupe — #77716B
 Soft Gray — #55514D
 Border — #D8D1C8
-✦ Prototype
-
-https://www.figma.com/design/UQL7q8PBmrApZcTy9reIoW/Fashion-ecommerce?node-id=0-1&t=xd3f8p9BynfH1ffj-1
